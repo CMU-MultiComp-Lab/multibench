@@ -1,8 +1,8 @@
 ---
 layout: about
-permalink: /fall2020/
-title: <b>M</b>ultimodal <b>M</b>achine <b>L</b>earning
-description: 11-777 • Fall 2020 • Carnegie Mellon University
+permalink: /
+title: <b>M</b>ulti<b>B</b>ench
+description: Multiscale Benchmarks for Multimodal Representation Learning
 logo: cmu-logo.png
 news: true
 ---
