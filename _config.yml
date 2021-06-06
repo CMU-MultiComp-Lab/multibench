@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 author: CMU MultiComp Lab
 name: MultiBench
-title: MultiBench: Multiscale Benchmarks for Multimodal Representation Learning
+title: "MultiBench: Multiscale Benchmarks for Multimodal Representation Learning"
 email:
 description: >
-  MultiBench: Multiscale Benchmarks for Multimodal Representation Learning
+  "MultiBench: Multiscale Benchmarks for Multimodal Representation Learning"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
