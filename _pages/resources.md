@@ -36,4 +36,4 @@ MultiZoo algorithms:
 
 Other resources:
 
-1. 
+1. [awesome-multimodal-ml: A Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
