@@ -1,5 +1,5 @@
 ---
-layout: models
+layout: default
 permalink: /models/
 title: Models
 ---
