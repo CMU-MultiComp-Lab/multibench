@@ -1,5 +1,5 @@
 ---
-layout: datasets
+layout: default
 permalink: /datasets/
 title: Datasets
 ---
