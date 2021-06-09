@@ -24,11 +24,15 @@ Robotics:
 
 1. MuJoCo PUSH: Lee et al., [Multimodal sensor fusion with differentiable filters](https://arxiv.org/abs/2010.13021), IROS 2020
 
+MuJoCo Push is a planar pushing task, in which a 7-DoF Panda Franka robot is pushing a circular puck with its end-effector in simulation. We estimate the 2D position of the unknown object on a table surface, while the robot intermittently interacts with the object. Similar to Vision&Touch, planar pushing is a contact-rich task. However, instead of estimating robot states, this dataset is estimating the state of the object the robot is currently interacting with.
+
 2. Vision&Touch: Lee et al., [Making sense of vision and touch: Self-supervised learning of multimodal representations for contact-rich tasks](https://arxiv.org/abs/1810.10191), ICRA 2019
+
+Vision&Touch is a real-world robot manipulation dataset that collects visual, force, and robot proprioception data (as well as the robot actions) for a peg insertion task. The robot is a 7-DoF, torque-controlled Franka Panda robot, which has a triangle peg attached to its end-effector. Rigidly attached to the table in front of the robot is a box with a triangle hole. The robot attempts to insert the peg into the hole, a contact-rich manipulation task that has been studied for decades due to its relevance in manufacturing. Vision, force, and proprioception are feedback modalities shown to be complementary and concurrent during contact-rich manipulation.
 
 Finance:
 
-1. Stocks-F&B consists of $8 selected stocks from S&P 500 stocks categorized by GICS as Restaurants or Packaged Foods & Meats. We select MCD, SBUX, HSY, and HRL for initial experiments on this dataset, record their opening prices and preprocess the data.
+1. Stocks-F&B consists of 8 selected stocks from S&P 500 stocks categorized by GICS as Restaurants or Packaged Foods & Meats. We select MCD, SBUX, HSY, and HRL for initial experiments on this dataset, record their opening prices and preprocess the data.
 
 2. Stocks-Health consists of 63 selected stocks from S&P $500$ stocks categorized by GICS as Health Care. We select MRK, WST, CVS, MCK, ABT, UNH, and TFX for initial experiments on  this dataset, record their opening prices, and preprocess the data.
 
@@ -37,6 +41,8 @@ Finance:
 HCI:
 
 1. ENRICO: Leiva et al., [Enrico: A dataset for topic modeling of mobile UI designs](https://userinterfaces.aalto.fi/enrico/resources/enrico.pdf), MobileHCI 2020
+
+ENRICO is a dataset of Android app screens categorized by their design motifs. ENRICO was collected to help data-driven design applications such as design search, UI layout generation, UI code generation, and user interaction modeling. ENRICO is a subset of RICO, which is a large dataset of app screens collected by the automated and semi-automated crawling of Android apps available on the Google Play Store.
 
 Multimedia:
 
