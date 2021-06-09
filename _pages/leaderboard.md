@@ -1,5 +1,5 @@
 ---
-layout: leaderboard
+layout: default
 permalink: /leaderboard/
 title: Leaderboard
 ---
