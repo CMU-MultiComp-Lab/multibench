@@ -16,7 +16,7 @@ MultiBench datasets:
 
 5. MIMIC: Johnson et al., [MIMIC-III, a freely accessible critical care database](https://pubmed.ncbi.nlm.nih.gov/27219127/), Nature Scientific Data 2016
 
-6. MuJoCo PUSH: Lee et al., [Multimodal sensor fusion with differentiable filters](https://arxiv.org/abs/2010.13021), IROS 2020
+6. MuJoCo Push: Lee et al., [Multimodal sensor fusion with differentiable filters](https://arxiv.org/abs/2010.13021), IROS 2020
 
 7. Vision&Touch: Lee et al., [Making sense of vision and touch: Self-supervised learning of multimodal representations for contact-rich tasks](https://arxiv.org/abs/1810.10191), ICRA 2019
  
