@@ -4,8 +4,6 @@ permalink: /datasets/
 title: Datasets
 ---
 
-MultiBench datasets:
-
 Affective Computing:
 
 1. MUStARD: Castro et al., [Towards multimodal sarcasm detection (an _obviously_ perfect paper)](https://arxiv.org/abs/1906.01815), ACL 2019
