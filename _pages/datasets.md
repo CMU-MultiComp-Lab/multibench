@@ -22,7 +22,7 @@ Healthcare:
 
 Robotics:
 
-1. MuJoCo PUSH: Lee et al., [Multimodal sensor fusion with differentiable filters](https://arxiv.org/abs/2010.13021), IROS 2020
+1. MuJoCo Push: Lee et al., [Multimodal sensor fusion with differentiable filters](https://arxiv.org/abs/2010.13021), IROS 2020
 
 MuJoCo Push is a planar pushing task, in which a 7-DoF Panda Franka robot is pushing a circular puck with its end-effector in simulation. We estimate the 2D position of the unknown object on a table surface, while the robot intermittently interacts with the object. Similar to Vision&Touch, planar pushing is a contact-rich task. However, instead of estimating robot states, this dataset is estimating the state of the object the robot is currently interacting with.
 
