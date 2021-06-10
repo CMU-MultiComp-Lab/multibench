@@ -4,6 +4,6 @@ permalink: /models/
 title: Models
 ---
 
-![alt text](/assets/img/multizoo.png)
+<img src="/multibench/assets/img/multizoo.png" width="700">
 
 coming soon!
