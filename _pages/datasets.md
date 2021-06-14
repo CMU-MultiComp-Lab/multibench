@@ -4,6 +4,8 @@ permalink: /datasets/
 title: Datasets
 ---
 
+<img src="/multibench/assets/img/datasets.png" width="700">
+
 Affective Computing:
 
 <ol>
