@@ -28,12 +28,6 @@ MultiBench datasets:
 
 11. Kinetics-400: Kay et al., [The kinetics human action video dataset](https://arxiv.org/abs/1705.06950), arXiv 2017
 
-MultiZoo algorithms:
-
-1.
-
-2.
-
 Other resources:
 
 1. [awesome-multimodal-ml: A Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
