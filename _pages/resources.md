@@ -18,7 +18,7 @@ MultiBench datasets:
 
 6. MuJoCo Push: Lee et al., [Multimodal sensor fusion with differentiable filters](https://arxiv.org/abs/2010.13021), IROS 2020
 
-7. Vision&Touch: Lee et al., [Making sense of vision and touch: Self-supervised learning of multimodal representations for contact-rich tasks](https://arxiv.org/abs/1810.10191), ICRA 2019
+7. Vision & Touch: Lee et al., [Making sense of vision and touch: Self-supervised learning of multimodal representations for contact-rich tasks](https://arxiv.org/abs/1810.10191), ICRA 2019
  
 8. ENRICO: Leiva et al., [Enrico: A dataset for topic modeling of mobile UI designs](https://userinterfaces.aalto.fi/enrico/resources/enrico.pdf), MobileHCI 2020
 
